@@ -12,16 +12,26 @@
 
 ¡Bienvenidos al proyecto de Pair Programming enfocado en Visualización de Datos en Power BI!
 
-Durante esta serie de sesiones, hemos trabajado explorando y visualizando un dataset seleccionado, relacionado con el Alzheimer.
+Durante esta serie de sesiones, hemos trabajado explorando y visualizando un dataset seleccionado, relacionado con la Salud Mental.
 
 Nuestro objetivo es aplicar los conocimientos aprendidos en Power BI para crear visualizaciones interactivas y dashboards informativos.
 
 # 2. 🎼 DATASET Y OBJETIVOS 
 
-Hemos seleccionado un dataset que contiene información sobre el Alzheimer, con las siguientes columnas principales:
+El dataset registra una encuesta global realizada para rastrear las tendencias en salud mental. Los datos cubren una variedad de variables como niveles de estrés, depresión, ansiedad, bienestar subjetivo y uso de servicios de salud mental. La encuesta involucró a encuestados de diversos orígenes demográficos, incluido el género, la situación laboral y la región geográfica. Este conjunto de datos tiene como objetivo proporcionar una mejor comprensión de los cambios en la salud mental a nivel mundial durante el período de tiempo especificado.
 
-- 
--
+Contiene información sobre la Salud Mental, con las siguientes columnas principales:
+
+- Timestamp: Time and date of survey
+- Gender: Gender of the respondent
+- Country: The country where the respondent lives
+- Occupation: Occupation or profession of the respondent
+- self_employed: Is the respondent self-employed or not?
+- family_history: Is there a history of mental health disorders in the respondent's family?
+- treatment: Has the respondent ever received treatment or therapy for mental health problems?
+- Days_Indoors: Estimated number of days a week the respondent spends indoors.
+- Growing_Stress: The current level of stress the respondent feels
+- Changes_Habits: Has the respondent experienced any changes in sleeping habits or patterns?
 
 Objetivo principal del proyecto:
 
@@ -30,7 +40,7 @@ Objetivos específicos:
 -
 -
 
-Enlace del Alzheimer Dataset: https://www.kaggle.com/datasets/ananthu19/alzheimer-disease-and-healthy-aging-data-in-us/data
+Enlace del dataset Salud Mental Dataset: https://www.kaggle.com/datasets/divaniazzahra/mental-health-dataset
 
 # 3. 📄 DOCUMENTACIÓN 
 
@@ -42,7 +52,6 @@ El pair programming se estructura en varias fases, que incluyen:
 
 Dentro del repositorio encontrarás los diferentes documentos utilizados, las cuales son:
 - Archivos csv: 
-- Documentación
 - Limpieza
 
 
