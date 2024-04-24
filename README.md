@@ -74,4 +74,4 @@ Valoramos todas las ideas y sugerencias para mejorar nuestras visualizaciones y 
 ¡Te invitamos a explorar y disfrutar este viaje de análisis visual de datos en Tableau!
 
 
-Creado por: [Beatriz Sánchez](https://github.com/BSReguera), [Nerea](https://github.com/Dondiz) y [Saira Castellano](https://github.com/saira2911).
+Creado por: [Beatriz Sánchez](https://github.com/BSReguera), [Nerea Dondiz](https://github.com/Dondiz) y [Saira Castellano](https://github.com/saira2911).
