@@ -12,33 +12,32 @@
 
 ¡Bienvenidos al proyecto de Pair Programming enfocado en Visualización de Datos en Power BI!
 
-Durante esta serie de sesiones, hemos trabajado explorando y visualizando un dataset seleccionado, relacionado con la Salud Mental.
-
-Nuestro objetivo es aplicar los conocimientos aprendidos en Power BI para crear visualizaciones interactivas y dashboards informativos.
+Durante esta serie de sesiones, hemos explorado y visualizado un dataset relacionado con la Salud Mental con el objetivo de aplicar nuestros conocimientos en Power BI para crear visualizaciones interactivas y dashboards informativos.
 
 # 2. 🎼 DATASET Y OBJETIVOS 
 
-El dataset registra una encuesta global realizada para rastrear las tendencias en salud mental. Los datos cubren una variedad de variables como niveles de estrés, depresión, ansiedad, bienestar subjetivo y uso de servicios de salud mental. La encuesta involucró a encuestados de diversos orígenes demográficos, incluido el género, la situación laboral y la región geográfica. Este conjunto de datos tiene como objetivo proporcionar una mejor comprensión de los cambios en la salud mental a nivel mundial durante el período de tiempo especificado.
+El dataset registra una encuesta global diseñada para rastrear las tendencias en salud mental. Incluye una variedad de variables como niveles de estrés, depresión, ansiedad, bienestar subjetivo y uso de servicios de salud mental. La encuesta involucró a encuestados de diversos orígenes demográficos, incluyendo género, situación laboral y región geográfica. El objetivo del dataset es proporcionar una mejor comprensión de los cambios en la salud mental a nivel mundial durante un período específico.
 
-Contiene información sobre la Salud Mental, con las siguientes columnas principales:
+Principales columnas del dataset:
 
-- Timestamp: Time and date of survey
-- Gender: Gender of the respondent
-- Country: The country where the respondent lives
-- Occupation: Occupation or profession of the respondent
-- self_employed: Is the respondent self-employed or not?
-- family_history: Is there a history of mental health disorders in the respondent's family?
-- treatment: Has the respondent ever received treatment or therapy for mental health problems?
-- Days_Indoors: Estimated number of days a week the respondent spends indoors.
-- Growing_Stress: The current level of stress the respondent feels
-- Changes_Habits: Has the respondent experienced any changes in sleeping habits or patterns?
+- Timestamp (Marca de tiempo): Fecha y hora en la que se realizó la encuesta.
+- Gender (Género): Género del encuestado.
+- Country (País): País donde vive el encuestado.
+- Occupation (Ocupación): Profesión u ocupación del encuestado.
+- Self_employed (¿Es usted trabajador/a independiente?): Indica si el encuestado trabaja por cuenta propia o no.
+- Family_history (Antecedentes familiares): ¿Hay antecedentes de trastornos de salud mental en la familia del encuestado?
+- Treatment (Tratamiento): ¿Ha recibido el encuestado tratamiento o terapia para problemas de salud mental?
+- Days_Indoors (Días en interiores): Número estimado de días a la semana que el encuestado pasa en interiores.
+- Growing_Stress (Nivel de estrés actual): El nivel actual de estrés que siente el encuestado.
+- Changes_Habits (Cambios en los hábitos): ¿Ha experimentado el encuestado cambios en los hábitos o patrones de sueño?
 
 Objetivo principal del proyecto:
+Analizar y comprender los factores relacionados con la salud mental de los encuestados utilizando datos recopilados de la encuesta. El enfoque se centra en identificar patrones, tendencias y relaciones entre las diferentes variables para obtener perspectivas significativas sobre la salud mental.
 
 Objetivos específicos:
-- 
--
--
+- Explorar características demográficas: Analizar género, ocupación, antecedentes familiares y tratamiento de salud mental para identificar patrones demográficos.
+- Evaluar el impacto ambiental en la salud mental: Investigar cómo el país de residencia y los hábitos de vida afectan el nivel de estrés y los hábitos de sueño.
+- Identificar predictores de búsqueda de tratamiento: Determinar si la historia familiar de trastornos mentales y otras variables están relacionadas con la búsqueda de tratamiento o terapia.
 
 Enlace del dataset Salud Mental Dataset: https://www.kaggle.com/datasets/divaniazzahra/mental-health-dataset
 
@@ -50,14 +49,16 @@ El pair programming se estructura en varias fases, que incluyen:
 - Transformación de los Datos
 - Elaboración de gráficos y dashboard en Power BI
 
-Dentro del repositorio encontrarás los diferentes documentos utilizados, las cuales son:
-- Archivos csv: 
-- Limpieza
+Dentro del repositorio encontrarás los siguientes documentos:
+
+- Archivos csv: Mental Health Dataset(original) y Mental Health Clean(Tras EDA)
+- Archivo .ipynb: Limpieza Mental Health
+- Archivos pbix: Power BI MH
 
 
 # 4. 💻 TECNOLOGÍAS UTILIZADAS 
 
-Durante este Pair Programming, se han empleado las siguientes tecnologías:
+Durante este Pair Programming, empleamos las siguientes tecnologías:
 
 - Python: Para el análisis de datos, manipulación y visualización.
 - Power BI: Para la creación de visualizaciones interactivas y dashboards. Facilitamos el Link de acceso al proyecto: LINKKKKKKK
@@ -65,7 +66,9 @@ Durante este Pair Programming, se han empleado las siguientes tecnologías:
 
 # 5. ❓ PREGUNTAS FRECUENTES 
 
-- ¿Qué 
+- ¿Cómo puedo acceder al proyecto en Power BI?: Puedes acceder al proyecto de Power BI a través del siguiente enlace: LINKKKKKKKKKKKKKKKK. Este enlace te llevará al dashboard interactivo creado durante el pair programming.
+- ¿Cómo se gestionó la limpieza y transformación de los datos en Python?: La limpieza y transformación de datos se realizaron en Python utilizando Pandas y NumPy. Se eliminaron valores nulos, gestionaron datos duplicados y se renombraron las columnas para mejorar la claridad y coherencia. Estas acciones garantizaron la preparación adecuada de los datos para su análisis en Power BI.
+- ¿Qué información contiene el conjunto de datos de Salud Mental?: El conjunto de datos contiene información sobre diversos aspectos relacionados con la salud mental, como género, país de residencia, ocupación, antecedentes familiares de trastornos mentales, tratamiento recibido, nivel de estrés, hábitos de vida y cambios en los patrones de sueño.
 
 # 6. ⭐ APORTACIONES 
 
