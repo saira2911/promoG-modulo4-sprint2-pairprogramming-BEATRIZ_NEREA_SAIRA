@@ -33,11 +33,11 @@ Principales columnas del dataset:
 
 Objetivo principal del proyecto:
 
-Analizar y comprender los factores relacionados con la salud mental de los encuestados utilizando datos recopilados de la encuesta. El enfoque se centra en identificar patrones, tendencias y relaciones entre las diferentes variables para obtener perspectivas significativas sobre la salud mental.
+Analizar y comprender los factores relacionados con la salud mental de los encuestados. El enfoque se centra en identificar patrones, tendencias y relaciones entre las diferentes variables para obtener perspectivas significativas sobre la salud mental.
 
 Objetivos específicos:
 - Explorar características demográficas: Analizar género, ocupación, antecedentes familiares y tratamiento de salud mental para identificar patrones demográficos.
-- Evaluar el impacto ambiental en la salud mental: Investigar cómo el país de residencia y los hábitos de vida afectan el nivel de estrés y los hábitos de sueño.
+- Evaluar el impacto de diferentes variables en la salud mental: Investigar cómo el país de residencia y los hábitos de vida afectan el nivel de estrés y los hábitos de sueño.
 - Identificar predictores de búsqueda de tratamiento: Determinar si la historia familiar de trastornos mentales y otras variables están relacionadas con la búsqueda de tratamiento o terapia.
 
 Enlace del dataset Salud Mental Dataset: https://www.kaggle.com/datasets/divaniazzahra/mental-health-dataset
