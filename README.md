@@ -32,6 +32,7 @@ Principales columnas del dataset:
 - Changes_Habits (Cambios en los hábitos): ¿Ha experimentado el encuestado cambios en los hábitos o patrones de sueño?
 
 Objetivo principal del proyecto:
+
 Analizar y comprender los factores relacionados con la salud mental de los encuestados utilizando datos recopilados de la encuesta. El enfoque se centra en identificar patrones, tendencias y relaciones entre las diferentes variables para obtener perspectivas significativas sobre la salud mental.
 
 Objetivos específicos:
