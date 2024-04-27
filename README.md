@@ -62,12 +62,12 @@ Dentro del repositorio encontrarás los siguientes documentos:
 Durante este Pair Programming, empleamos las siguientes tecnologías:
 
 - Python: Para el análisis de datos, manipulación y visualización.
-- Power BI: Para la creación de visualizaciones interactivas y dashboards. Facilitamos el Link de acceso al proyecto: LINKKKKKKK
+- Power BI: Para la creación de visualizaciones interactivas y dashboards. Facilitamos el Link de acceso al proyecto: https://app.powerbi.com/groups/me/reports/4581b747-24c6-4f0e-9f43-5c8c28407b74/ReportSectionec326f58468a407a9ccb?experience=power-bi.
 - Control de Versiones en GitHub: Para colaborar y gestionar el código y recursos.
 
 # 5. ❓ PREGUNTAS FRECUENTES 
 
-- ¿Cómo puedo acceder al proyecto en Power BI?: Puedes acceder al proyecto de Power BI a través del siguiente enlace: LINKKKKKKKKKKKKKKKK. Este enlace te llevará al dashboard interactivo creado durante el pair programming.
+- ¿Cómo puedo acceder al proyecto en Power BI?: Puedes acceder al proyecto de Power BI a través del siguiente enlace: https://app.powerbi.com/groups/me/reports/4581b747-24c6-4f0e-9f43-5c8c28407b74/ReportSectionec326f58468a407a9ccb?experience=power-bi. Este enlace te llevará al dashboard interactivo creado durante el pair programming.
 - ¿Cómo se gestionó la limpieza y transformación de los datos en Python?: La limpieza y transformación de datos se realizaron en Python utilizando Pandas y NumPy. Se eliminaron valores nulos, gestionaron datos duplicados y se renombraron las columnas para mejorar la claridad y coherencia. Estas acciones garantizaron la preparación adecuada de los datos para su análisis en Power BI.
 - ¿Qué información contiene el conjunto de datos de Salud Mental?: El conjunto de datos contiene información sobre diversos aspectos relacionados con la salud mental, como género, país de residencia, ocupación, antecedentes familiares de trastornos mentales, tratamiento recibido, nivel de estrés, hábitos de vida y cambios en los patrones de sueño.
 
