@@ -10,13 +10,13 @@
 
 # 1. 📊 INTRODUCCION 
 
-¡Bienvenidos al proyecto de Pair Programming enfocado en Visualización de Datos en Power BI!
+¡Bienvenidos al proyecto de pair programming enfocado en Visualización de Datos en Power BI!
 
 Durante esta serie de sesiones, hemos explorado y visualizado un dataset relacionado con la Salud Mental con el objetivo de aplicar nuestros conocimientos en Power BI para crear visualizaciones interactivas y dashboards informativos.
 
 # 2. 🎼 DATASET Y OBJETIVOS 
 
-El dataset registra una encuesta global diseñada para rastrear las tendencias en salud mental. Incluye una variedad de variables como niveles de estrés, depresión, ansiedad, bienestar subjetivo y uso de servicios de salud mental. La encuesta involucró a encuestados de diversos orígenes demográficos, incluyendo género, situación laboral y región geográfica. El objetivo del dataset es proporcionar una mejor comprensión de los cambios en la salud mental a nivel mundial durante un período específico.
+El dataset registra una encuesta global diseñada para rastrear las tendencias en salud mental. Incluye variables como niveles de estrés, si estan en tratamiento, si tienen historial familiar, cuantos dias pasan sin salir de casa, etc. La encuesta involucró a encuestados de diversos paises, géneros y situaciones laborales. El objetivo del dataset es proporcionar una mejor comprensión de los cambios en la salud mental a nivel mundial durante un período específico.
 
 Principales columnas del dataset:
 
@@ -53,8 +53,8 @@ El pair programming se estructura en varias fases, que incluyen:
 Dentro del repositorio encontrarás los siguientes documentos:
 
 - Archivos csv: Mental Health Dataset(original) y Mental Health Clean(Tras EDA)
-- Archivo .ipynb: Limpieza Mental Health
-- Archivos pbix: Power BI MH
+- Archivos .ipynb: Limpieza Mental Health y documentación
+- Archivo pbix: Dashboards Mental Health
 
 
 # 4. 💻 TECNOLOGÍAS UTILIZADAS 
@@ -73,9 +73,9 @@ Durante este Pair Programming, empleamos las siguientes tecnologías:
 
 # 6. ⭐ APORTACIONES 
 
-Valoramos todas las ideas y sugerencias para mejorar nuestras visualizaciones y análisis. Si tienes alguna propuesta o comentario que pueda enriquecer nuestro proyecto de -------, ¡no dudes en compartirlo!
+Valoramos todas las ideas y sugerencias para mejorar nuestras visualizaciones y análisis. Si tienes alguna propuesta o comentario que pueda enriquecer nuestro proyecto ¡no dudes en compartirlo!
 
-¡Te invitamos a explorar y disfrutar este viaje de análisis visual de datos en -----------!
+¡Te invitamos a explorar y disfrutar este viaje de análisis visual de datos en Power BI!
 
 
 Creado por: [Beatriz Sánchez](https://github.com/BSReguera), [Nerea Dondiz](https://github.com/Dondiz) y [Saira Castellano](https://github.com/saira2911).
