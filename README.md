@@ -73,9 +73,9 @@ Durante este Pair Programming, empleamos las siguientes tecnologías:
 
 # 6. ⭐ APORTACIONES 
 
-Valoramos todas las ideas y sugerencias para mejorar nuestras visualizaciones y análisis. Si tienes alguna propuesta o comentario que pueda enriquecer nuestro proyecto de Tableau, ¡no dudes en compartirlo!
+Valoramos todas las ideas y sugerencias para mejorar nuestras visualizaciones y análisis. Si tienes alguna propuesta o comentario que pueda enriquecer nuestro proyecto de -------, ¡no dudes en compartirlo!
 
-¡Te invitamos a explorar y disfrutar este viaje de análisis visual de datos en Tableau!
+¡Te invitamos a explorar y disfrutar este viaje de análisis visual de datos en -----------!
 
 
 Creado por: [Beatriz Sánchez](https://github.com/BSReguera), [Nerea Dondiz](https://github.com/Dondiz) y [Saira Castellano](https://github.com/saira2911).
